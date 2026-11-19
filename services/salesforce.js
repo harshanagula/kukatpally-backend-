@@ -56,7 +56,7 @@ async function createLead(data) {
 
       project: data.project || "Novo gardenia",
 
-      channel: data.project || "In-House",
+      channel: data.project || "Digital INH",
 
       firstEnquirySource: data.source || "Website",
 
