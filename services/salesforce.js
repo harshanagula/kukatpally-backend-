@@ -50,8 +50,6 @@ async function createLead(data) {
 
       term: data.utm_term || "",
 
-      subSource: data.utm_source || "",
-
       source: data.source || "Website",
 
       project: data.project || "Novo gardenia",
